@@ -2,7 +2,7 @@
 
 ---
 
-🔭 I’m currently working on **React Native** + **Firebase** project as my Engineering project.
+🔭 I’m currently working on **React Native** + **Firebase** project as my Engineering project - [Travellan](https://github.com/travellan).
 
 I'm a participant in [Szkoła Reacta](https://github.com/szkola-reacta)'s course.
 
