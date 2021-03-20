@@ -2,7 +2,7 @@
 
 ---
 
-⚛️ I work at [RSQ Technologies](rsqtechnologies.com) as a <b>React developer</b>.
+⚛️  I work at [RSQ Technologies](rsqtechnologies.com) as a <b>React developer</b>.
 
 Some of my side projects:
 
