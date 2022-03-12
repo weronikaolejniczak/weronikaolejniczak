@@ -2,10 +2,14 @@
 
 ---
 
-I work at [RSQ Technologies](rsqtechnologies.com) as a <b>React developer</b>.
+I'm a **React Developer**. I like to play around with new tech, not only on the web - backend, mobile, embedded systems.
+I'm open to new experiences and collaboration!
 
-After hours, in a 2-person team, I'm developing a React Native application that will help you manage your home jungle 🌱
-Check out its source code at github.com/akowalska622/growme-rn
+I love:
+Swimming 🌊
+Plants 🌱
+Cooking 🍲
+Creating music 🎶
 
 💬 Ask me about anything you'd like!
 
