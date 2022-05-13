@@ -6,8 +6,6 @@ I work as a **React Developer**. In my free time, I like to play around with tec
 
 I've studied Computer Science in English at Adam Mickiewicz University in Poznan and I have an Engineer's degree.
 
-**I love:** Swimming 🌊 Plants 🌱 Cooking 🍲 Creating music 🎶
-
 💬 Ask me about anything you'd like! I'm open to new experiences and collaboration.
 
 📫 How to reach me: *wer.olejniczak@gmail.com*
