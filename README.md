@@ -2,7 +2,7 @@
 
 ---
 
-I work as a **React Developer**. In my free time, I like to play around with tech - backend, mobile, embedded systems etc. My expertise lies in the web development though.
+I work as a **Web Developer**. In my free time, I like to play around with tech - back-end, mobile, embedded systems etc.
 
 I've studied Computer Science in English at Adam Mickiewicz University in Poznan and I have an Engineer's degree.
 
