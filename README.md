@@ -2,9 +2,9 @@
 
 ---
 
-I work as a **Web Developer**. In my free time, I like to play around with tech - back-end, mobile, embedded systems etc.
+I work as a **Web Developer**. In my free time, I like to play around with tech - back-end, mobile, embedded systems, 3D programming and more.
 
-I've studied Computer Science in English at Adam Mickiewicz University in Poznan and I have an Engineer's degree.
+I studied Computer Science in English at Adam Mickiewicz University in Poznan and I have a Bachelor of Engineering degree.
 
 💬 Ask me about anything you'd like! I'm open to new experiences and collaboration.
 
