@@ -2,7 +2,7 @@
 
 ---
 
-I work as a **Web Developer**. In my free time, I like to play around with tech - back-end, mobile, embedded systems, 3D programming and more.
+I work as a **Front-end Engineer**. In my free time, I like to develop indie games.
 
 I studied Computer Science in English at Adam Mickiewicz University in Poznan and I have a Bachelor of Engineering degree.
 
